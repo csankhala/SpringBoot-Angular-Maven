@@ -118,3 +118,6 @@ hs_err_pid*
 .idea/sonarIssues.xml
 .idea/vcs.xml
 .idea/workspace.xml
+
+**/js/node_modules
+**/js/node
